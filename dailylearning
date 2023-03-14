@@ -1,0 +1,6 @@
+Clustering - 'n' number of nodes(CPU, HDD) Connected to a Single Machine(Main Machine) ,Eg. Kubernetes, Docker Used For Containerization
+
+
+Cloud Computing -       IAAS -  hardware, VM Creation
+			PAAS -  os	
+			SAAS -  applications
